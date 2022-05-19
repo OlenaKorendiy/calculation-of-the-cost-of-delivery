@@ -1,1 +1,1 @@
-# calculation-of-the-cost-of-delivery
+# calculation-of-the-cost-of-delivery/ javascript
